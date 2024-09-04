@@ -1,2 +1,2 @@
-# E-wastemandu
-This is online waste management system.
+my Soft Computing project
+
